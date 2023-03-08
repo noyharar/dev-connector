@@ -1,0 +1,9 @@
+{
+
+  "mongoURI": "mongodb+srv://noy1234:noy1234@cluster0.vxggtrm.mongodb.net/?retryWrites=true&w=majority&dbName=devConnectorDB",
+  "jwtSecret" :"mysecrettoken",
+  "githubClientId": "20a64af87d5ffe1350bf",
+  "githubSecret": "c029822e704af70dac56a4fa921b8a85b06ac9ac",
+  "githubToken": "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"
+
+}
